@@ -17,7 +17,3 @@ Mina personliga anteckningar om inbyggda system och elektronik.
 - Innehåller en mikrokontroller.
 - Kan kopplas till sensorer, lampor och motorer.
 
-## Hur fungerar de tillsammans?
-1. Sensor samlar in information.
-2. Mikrokontroller bearbetar informationen.
-3. Systemet utför en handling (output).
