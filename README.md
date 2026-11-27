@@ -14,6 +14,5 @@ Mina personliga anteckningar om inbyggda system och elektronik.
 
 ## Arduino
 - En plattform för elektronik och programmering.
-- Innehåller en mikrokontroller.
-- Kan kopplas till sensorer, lampor och motorer.
-
+- C++
+- Liberery , Kompilation 
